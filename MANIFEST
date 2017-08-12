@@ -3,8 +3,7 @@ lib/Regexp/Functions/chmod_et_al.pm
 LICENSE
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 README
-README.md
 t/001-load.t
 t/002-chmod-et-al.t
-Todo
