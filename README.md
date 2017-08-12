@@ -1,9 +1,8 @@
 # NAME
 
 Regexp::Functions::chmod_et_al - Patterns for matching Perl functions chmod(), mkdir(), File::Path::mkpath(), File::Path::make_path()
-[![Build Status](https://travis-ci.org/jkeenan/Regexp-Functions-chmod_et_al.svg?branch=master)](https://travis-ci.org/jkeenan/Regexp-Functions-chmod_et_al)
+[![Build Status](https://travis-ci.org/jkeenan/regexp-chmod_et_al.svg?branch=master)](https://travis-ci.org/jkeenan/regexp-chmod_et_al)
 [![CPAN version](https://badge.fury.io/pl/Regexp-Functions-chmod_et_al.svg)](http://badge.fury.io/pl/File-Path)
-
 
 # INSTALLATION
 
