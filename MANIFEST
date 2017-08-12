@@ -1,8 +1,9 @@
+Changes
+lib/Regexp/Functions/chmod_et_al.pm
+LICENSE
+Makefile.PL
 MANIFEST
 README
-LICENSE
+README.md
+t/001-load.t
 Todo
-Changes
-Makefile.PL
-lib/Regexp/Functions/chmod_et_al.pm
-t/001_load.t
