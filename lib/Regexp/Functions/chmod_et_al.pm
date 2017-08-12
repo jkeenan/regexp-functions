@@ -2,7 +2,7 @@ package Regexp::Functions::chmod_et_al;
 use strict;
 use 5.6.0;
 
-our $VERSION     = '0.01';
+our $VERSION     = '0.02';
 our @ISA         = qw(Exporter);
 our @EXPORT_OK = qw(
     $qr_chmod_et_al
