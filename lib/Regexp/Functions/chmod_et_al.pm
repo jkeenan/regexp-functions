@@ -72,13 +72,9 @@ my $qrmkpath2 = qr/
     (?:$qrclosparen)?
 /x;
 
-=pod
+#    make_path('foo/bar/baz', '/zug/zwang', { verbose => 1, mode => 0711 });
 
-    make_path('foo/bar/baz', '/zug/zwang', { verbose => 1, mode => 0711 });
-
-    q|make_path($somedir, { verbose => 1, mode => 0000 })|,
-
-=cut
+#    q|make_path($somedir, { verbose => 1, mode => 0000 })|,
 
 my $qrmakepath = qr/
     make_path
