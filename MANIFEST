@@ -6,4 +6,5 @@ MANIFEST
 README
 README.md
 t/001-load.t
+t/002-chmod-et-al.t
 Todo

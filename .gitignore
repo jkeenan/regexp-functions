@@ -1,7 +1,7 @@
 !Build/
 .last_cover_stats
-/META.yml
-/META.json
+#/META.yml
+#/META.json
 /MYMETA.*
 *.o
 *.pm.tdy
@@ -24,7 +24,7 @@ Build.bat
 # Module::Install
 inc/
 
-# ExtUitls::MakeMaker
+# ExtUtils::MakeMaker
 /blib/
 /_eumm/
 /*.gz
@@ -33,3 +33,8 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+# MY ADDITIONS
+
+/Regexp-Functions-chmod_et_al-*.tar.gz
+*.swp
